@@ -23,11 +23,11 @@ This project was developed following Alura's "[NGINX: Servidor Web, Proxy Revers
 ## :cd: Installation
 
 ```sh
-git clone [PROJECT_REPO_LINK]
+git clone git@github.com:filipe1309/al-nginx.git
 ```
 
 ```sh
-cd [PROJECT_REPO_NAME]
+cd al-nginx
 ```
 
 ## :runner: Running
