@@ -10,3 +10,8 @@ nginx -t
 
 docker-compose exec nginx nginx -t
 docker-compose exec nginx nginx -s reload
+
+http://localhost:8000/service1
+http://localhost:8000/service2
+
+https://www.nginx.com/blog/deploying-nginx-plus-as-an-api-gateway-part-1/
