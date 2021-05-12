@@ -7,3 +7,6 @@
 nginx -h
 nginx -s reload
 nginx -t
+
+docker-compose exec nginx nginx -t
+docker-compose exec nginx nginx -s reload
